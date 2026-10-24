@@ -14,6 +14,7 @@
             font-weight: bold;
         }
     </style>
+    <title>Cek</title>
 </head>
 <body>
     <ul>
